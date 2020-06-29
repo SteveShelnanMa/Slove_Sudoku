@@ -2,7 +2,7 @@
 #   I changed the code to allow the input to be matrix directly.
 
 
-using JuMP, GLPK, Test
+using JuMP, GLPK
 
 #   solve sudoku given initial input is filepath
 function solve_sudoku(filepath)
