@@ -130,7 +130,7 @@ end
 
 
 #   Now let's play
-#   I prefer use matrix as initial input
+#   I prefer using matrix as initial input
 #   Each 0 represents the blank to fill
 init_sol = [ 6 0 0 0 3 1 9 0 0;
              8 0 0 0 0 0 0 0 0;
